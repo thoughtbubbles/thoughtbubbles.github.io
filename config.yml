@@ -1,5 +1,5 @@
 baseurl: "/"
-title: "Stackbit Azimuth Theme"
+title: "Chandana Blog"
 init_js: "assets/js/init.js"
 page_load_js: "assets/js/main.js"
 params:
@@ -25,7 +25,7 @@ params:
     content: "&copy; Stackbit. All rights reserved."
     links:
       - text: Made with Stackbit
-        url: "https://www.stackbit.com"
+        url: "https://thoughtglobules.github.io"
         new_window: true
 sass:
   input_file: sass/main.scss.njk
