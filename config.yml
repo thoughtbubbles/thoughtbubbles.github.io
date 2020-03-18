@@ -33,3 +33,6 @@ sass:
   indentWidth: 4
   outputStyle: nested
   precision: 10
+
+github:
+  repo:           https://github.com/thoughtglobules/thoughtglobules.github.io
